@@ -1,4 +1,4 @@
-COMP1023 Artifact
+COMP1023 DevOps Artifact
 Milestone 1 update by Ronak Patel
 
 
